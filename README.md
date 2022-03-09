@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @fraser-6-dev
+- 👀 I’m interested in html, javascript and css
+- 🌱 I’m currently learning css and javascript
